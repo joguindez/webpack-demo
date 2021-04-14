@@ -1,0 +1,25 @@
+{
+  "name": "webpack-demo-new",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joguindez/webpack-demo.git"
+  },
+  "keywords": [],
+  "author": "Joguindez <hernandez.guille.jon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joguindez/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/joguindez/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.32.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
